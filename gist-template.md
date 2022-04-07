@@ -1,7 +1,5 @@
 # Regex Tutorial 
 
-# Regex Tutorial 
-
   I'll explained with all my word regex tutorial so we can understand the search pattern the regex stand for
   
 ## Summary
