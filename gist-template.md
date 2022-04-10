@@ -68,8 +68,6 @@ The guidelines for matching the group. For this code snippet, it can contain let
 [a-z0-9_\.-]
 
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
-
-## Author
 ## Questions
   
 Contact for questions and suggestions:
